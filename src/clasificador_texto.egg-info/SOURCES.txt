@@ -1,0 +1,14 @@
+README.rst
+notebook_old.ipynb
+notebook_only_code.ipynb
+setup.cfg
+setup.py
+recipes/for_design/brownie_mandarina.txt
+recipes/for_design/salmon_horno
+src/clasificador_texto.egg-info/PKG-INFO
+src/clasificador_texto.egg-info/SOURCES.txt
+src/clasificador_texto.egg-info/dependency_links.txt
+src/clasificador_texto.egg-info/not-zip-safe
+src/clasificador_texto.egg-info/requires.txt
+src/clasificador_texto.egg-info/top_level.txt
+src/ilpr3/__init__.py

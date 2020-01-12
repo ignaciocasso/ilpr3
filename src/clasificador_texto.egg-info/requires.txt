@@ -1,0 +1,11 @@
+pandas
+numpy
+sklearn
+jupyter
+wordcloud
+stop_words
+matplotlib
+
+[testing]
+pytest
+pytest-cov

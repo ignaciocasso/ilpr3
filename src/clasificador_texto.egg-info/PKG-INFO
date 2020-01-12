@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: clasificador-texto
+Version: 0.0.post0.dev12+gb4e792e.dirty
+Summary: Add a short description here!
+Home-page: https://github.com/pyscaffold/pyscaffold/
+Author: Diego
+Author-email: diegovillaveza@gmail.com
+License: mit
+Project-URL: Documentation, https://pyscaffold.org/
+Description: ==================
+        clasificador_texto
+        ==================
+        
+        
+        Text classifier based on BoW and TF-IDF for university assingment
+        
+        
+        Description
+        ===========
+        
+        A longer description of your project goes here...
+        
+        
+        Note
+        ====
+        
+        This project has been set up using PyScaffold 3.2.3. For details and usage
+        information on PyScaffold see https://pyscaffold.org/.
+        
+Platform: any
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python
+Description-Content-Type: text/x-rst; charset=UTF-8
+Provides-Extra: testing
